@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Mm96cmyQtIa4qYj4XQmf">
-    <mxGraphModel>
+    <mxGraphModel dx="982" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Start" vertex="1">
+          <mxGeometry height="60" width="110" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="customer login through the mobile app" vertex="1">
+          <mxGeometry height="60" width="270" x="260" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="select credit card" vertex="1">
+          <mxGeometry height="60" width="155" x="302.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;current balance, statement balance, minimum payment due, and payment due date. Is displayed" vertex="1">
+          <mxGeometry height="60" width="280" x="260" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="selects a payment amount: minimum payment due, statement balance, current balance, or custom amount." vertex="1">
+          <mxGeometry height="60" width="310" x="250" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="selects a funding account checking/saving account" vertex="1">
+          <mxGeometry height="60" width="300" x="250" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="validate payment" vertex="1">
+          <mxGeometry height="80" width="280" x="270" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-22" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;customer reviews the payment details and confirms the payment." vertex="1">
+          <mxGeometry height="60" width="222.5" x="80" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-36" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="system displays an error message and allows the customer to correct the information." vertex="1">
+          <mxGeometry height="60" width="240" x="540" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="submits the payment for processing." vertex="1">
+          <mxGeometry height="60" width="222.5" x="80" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-30" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="system notifies the customer&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="270" x="80" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-14" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.47;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-15" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.594;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-16" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-17" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-18" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.515;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-19" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.477;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-20" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.279;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-21" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.401;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-23" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.415;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-31" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-33" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-34" edge="1" parent="1" source="w2rNhxyl0xvY0GNk77Hk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="w2rNhxyl0xvY0GNk77Hk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="payment status" vertex="1">
+          <mxGeometry height="80" width="80" x="151.25" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="successful" vertex="1">
+          <mxGeometry height="60" width="120" x="131.25" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pending" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="w2rNhxyl0xvY0GNk77Hk-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fail , insufficient funds," vertex="1">
+          <mxGeometry height="60" width="160" x="490" y="1160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
