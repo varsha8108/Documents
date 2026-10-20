@@ -1,9 +1,70 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="zuWNG9pqh3UB-17CmvCY">
-    <mxGraphModel>
+    <mxGraphModel dx="817" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Start" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Customer logs into the mobile app" vertex="1">
+          <mxGeometry height="60" width="360" x="260" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-14" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="opens their transaction history" vertex="1">
+          <mxGeometry height="60" width="360" x="260" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-15" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="customer selects the suspicious transaction." vertex="1">
+          <mxGeometry height="60" width="360" x="260" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-16" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="customer selects “Report a problem.”" vertex="1">
+          <mxGeometry height="60" width="360" x="260" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-17" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="system confirms the customer to if they want to submit a report" vertex="1">
+          <mxGeometry height="60" width="360" x="260" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-19" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="check if the customer wants to submit a report" vertex="1">
+          <mxGeometry height="140" width="290" x="280" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="the system submits the report&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="210" x="30" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="confirmation message with a reference number.&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="no report is submitted" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-12" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.342;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-2">
+          <mxGeometry relative="1" x="0.0177" as="geometry">
+            <Array as="points">
+              <mxPoint x="383.1" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-13" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.504;entryY=-0.058;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-18" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.466;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuRWJ9VAhwUdsCyC4SR-20" edge="1" parent="1" source="RIuRWJ9VAhwUdsCyC4SR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.628;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;" target="RIuRWJ9VAhwUdsCyC4SR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
