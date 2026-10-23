@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Cp1vRiHXlFWpkQnoFOqq">
-    <mxGraphModel dx="1240" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-14" edge="1" parent="fTXjXWY6KQdn5_wVAJQu-3" source="fTXjXWY6KQdn5_wVAJQu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="iFxjhS9W_Gkt7h2x--gT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTXjXWY6KQdn5_wVAJQu-8" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=0;whiteSpace=wrap;html=1;" value="validate beneficiary details like name, account number, ifsc code other details" vertex="1">
+        <mxCell id="fTXjXWY6KQdn5_wVAJQu-8" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=0;whiteSpace=wrap;html=1;" value="validate beneficiary details like name, account number, ifsc code other details and amount is &amp;gt; 0" vertex="1">
           <mxGeometry height="70" width="120" x="80" y="30" as="geometry" />
         </mxCell>
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-29" edge="1" parent="fTXjXWY6KQdn5_wVAJQu-3" source="iFxjhS9W_Gkt7h2x--gT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="iFxjhS9W_Gkt7h2x--gT-28">
