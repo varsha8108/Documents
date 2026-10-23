@@ -43,14 +43,23 @@
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-1" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Are they valid" vertex="1">
           <mxGeometry height="70" width="80" x="100" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="iFxjhS9W_Gkt7h2x--gT-43" edge="1" parent="fTXjXWY6KQdn5_wVAJQu-3" source="iFxjhS9W_Gkt7h2x--gT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.858;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="iFxjhS9W_Gkt7h2x--gT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-4" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Error message &quot;insufficient funds&quot;" vertex="1">
           <mxGeometry height="60" width="80" x="220" y="190" as="geometry" />
         </mxCell>
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-5" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Confirm if all the transfer details are correct" vertex="1">
           <mxGeometry height="60" width="120" x="330" y="190" as="geometry" />
         </mxCell>
+        <mxCell id="iFxjhS9W_Gkt7h2x--gT-42" edge="1" parent="fTXjXWY6KQdn5_wVAJQu-3" source="iFxjhS9W_Gkt7h2x--gT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.622;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="iFxjhS9W_Gkt7h2x--gT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-7" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Request not processed" vertex="1">
           <mxGeometry height="40" width="110" x="440" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="iFxjhS9W_Gkt7h2x--gT-41" edge="1" parent="fTXjXWY6KQdn5_wVAJQu-3" source="iFxjhS9W_Gkt7h2x--gT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="iFxjhS9W_Gkt7h2x--gT-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-9" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=0;whiteSpace=wrap;html=1;" value="displays a confirmation and reference number." vertex="1">
           <mxGeometry height="60" width="120" x="690" y="190" as="geometry" />
@@ -65,6 +74,9 @@
         </mxCell>
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-31" parent="fTXjXWY6KQdn5_wVAJQu-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
           <mxGeometry height="30" width="60" x="90" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="iFxjhS9W_Gkt7h2x--gT-40" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stop" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="70" as="geometry" />
         </mxCell>
         <mxCell id="fTXjXWY6KQdn5_wVAJQu-4" parent="fTXjXWY6KQdn5_wVAJQu-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="banking system" vertex="1">
           <mxGeometry height="210" width="820" y="500" as="geometry" />
