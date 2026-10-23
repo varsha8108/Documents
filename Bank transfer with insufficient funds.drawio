@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Cp1vRiHXlFWpkQnoFOqq">
+    <mxGraphModel dx="474" dy="272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fTXjXWY6KQdn5_wVAJQu-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" value="Pool" vertex="1">
+          <mxGeometry height="710" width="720" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTXjXWY6KQdn5_wVAJQu-2" parent="fTXjXWY6KQdn5_wVAJQu-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="customer" vertex="1">
+          <mxGeometry height="210" width="720" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTXjXWY6KQdn5_wVAJQu-6" parent="fTXjXWY6KQdn5_wVAJQu-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Start" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTXjXWY6KQdn5_wVAJQu-7" parent="fTXjXWY6KQdn5_wVAJQu-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Login to the app&lt;div&gt;select beneficiary and add amount&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fTXjXWY6KQdn5_wVAJQu-3" parent="fTXjXWY6KQdn5_wVAJQu-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="mobile app" vertex="1">
+          <mxGeometry height="270" width="720" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fTXjXWY6KQdn5_wVAJQu-8" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=0;whiteSpace=wrap;html=1;" value="validate beneficiary details like name, account number, ifsc code other details" vertex="1">
+          <mxGeometry height="70" width="120" x="80" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fTXjXWY6KQdn5_wVAJQu-4" parent="fTXjXWY6KQdn5_wVAJQu-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 3" vertex="1">
+          <mxGeometry height="210" width="720" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
