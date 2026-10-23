@@ -53,7 +53,7 @@
           <mxGeometry height="60" width="80" x="220" y="190" as="geometry" />
         </mxCell>
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-5" parent="fTXjXWY6KQdn5_wVAJQu-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Confirm if all the transfer details are correct" vertex="1">
-          <mxGeometry height="60" width="120" x="330" y="190" as="geometry" />
+          <mxGeometry height="60" width="120" x="340" y="180" as="geometry" />
         </mxCell>
         <mxCell id="iFxjhS9W_Gkt7h2x--gT-42" edge="1" parent="fTXjXWY6KQdn5_wVAJQu-3" source="iFxjhS9W_Gkt7h2x--gT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.622;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="iFxjhS9W_Gkt7h2x--gT-40">
           <mxGeometry relative="1" as="geometry" />
